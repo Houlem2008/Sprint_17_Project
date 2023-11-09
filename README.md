@@ -1,6 +1,6 @@
 # Sprint_17_Project
 
-*My Final Project; like the previous integrated projects there weren't extensive lessons in this sprint, rather the project was utilizing numerous techniques and knowledge from previous lessons. Becaause I scored 6 SP with the main project, no additional assignment was required. Sprint length was 2 weeks.*
+*My Final Project; like the previous integrated projects there weren't extensive lessons in this sprint, rather the project was utilizing numerous techniques and knowledge from previous lessons. Because I scored 6 SP with the main project, no additional assignment was required. Sprint length was 2 weeks.*
 
 ***Datasets for Sprint 17/Final Project:***
 
